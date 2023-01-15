@@ -359,10 +359,17 @@ header .navbar a {
     font-weight: 600;
     
 }
+.project .container .box-container .box .project-number:hover {
+    color: #FFFFFF;
+}
 .project .container .box-container .box .award {
     margin-top: 5px;
     color: #727272;
     font-size: 20px;
+}
+
+.project .container .box-container .box .award:hover {
+    color: #FFFFFF;
 }
 
 /* project style end */
